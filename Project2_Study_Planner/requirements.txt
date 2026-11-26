@@ -1,0 +1,1 @@
+# This program only uses Python's built-in libraries (tkinter, csv, datetime).
